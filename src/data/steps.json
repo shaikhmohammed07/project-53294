@@ -1,0 +1,37 @@
+[
+  {
+    "id": "announcement",
+    "title": "Announcement",
+    "description": "The Election Commission of India (ECI) announces the election schedule.",
+    "details": "The Model Code of Conduct comes into effect immediately. The announcement details the phases of the election, dates of voting, and the counting day.",
+    "icon": "megaphone"
+  },
+  {
+    "id": "nomination",
+    "title": "Nomination",
+    "description": "Candidates file their nomination papers with the Returning Officer.",
+    "details": "Candidates must submit details about their assets, criminal records (if any), and educational qualifications. Papers are scrutinized, and candidates can withdraw within a specified period.",
+    "icon": "file-text"
+  },
+  {
+    "id": "campaigning",
+    "title": "Campaigning",
+    "description": "Political parties and candidates campaign to win voters' support.",
+    "details": "Campaigning stops 48 hours before the end of polling (silence period) to allow voters to think peacefully.",
+    "icon": "users"
+  },
+  {
+    "id": "voting",
+    "title": "Voting",
+    "description": "Voters cast their votes using Electronic Voting Machines (EVMs).",
+    "details": "Voters must verify their names on the electoral roll and carry valid ID proof to the polling booth.",
+    "icon": "check-square"
+  },
+  {
+    "id": "counting",
+    "title": "Counting & Results",
+    "description": "Votes are counted under strict security and results are declared.",
+    "details": "The candidate with the most votes in a constituency wins. If a party or coalition gets a majority in the house, they form the government.",
+    "icon": "bar-chart-2"
+  }
+]

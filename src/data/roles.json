@@ -1,0 +1,35 @@
+[
+  {
+    "id": "voter",
+    "title": "Voter",
+    "description": "Experience the election process from the perspective of a citizen.",
+    "tasks": [
+      "Check name in electoral roll",
+      "Understand candidate manifestos",
+      "Go to the polling booth with valid ID",
+      "Cast vote via EVM and verify VVPAT"
+    ]
+  },
+  {
+    "id": "candidate",
+    "title": "Candidate",
+    "description": "See what it takes to run for an office.",
+    "tasks": [
+      "File nomination papers with deposit",
+      "Declare assets and criminal background",
+      "Campaign within the ECI expenditure limits",
+      "Appoint polling agents for counting day"
+    ]
+  },
+  {
+    "id": "officer",
+    "title": "Polling Officer",
+    "description": "Understand the responsibilities of conducting a free and fair election.",
+    "tasks": [
+      "Set up the polling booth",
+      "Verify voter identities",
+      "Operate the Control Unit of the EVM",
+      "Seal EVMs safely post-election"
+    ]
+  }
+]

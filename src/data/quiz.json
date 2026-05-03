@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "question": "What is the minimum voting age in India?",
+    "options": ["16", "18", "21", "25"],
+    "correctAnswer": 1,
+    "explanation": "The voting age in India was reduced from 21 to 18 years by the 61st Constitutional Amendment Act of 1988."
+  },
+  {
+    "id": 2,
+    "question": "Who conducts elections to the Lok Sabha in India?",
+    "options": ["President of India", "Parliament", "Election Commission of India", "Supreme Court"],
+    "correctAnswer": 2,
+    "explanation": "The Election Commission of India (ECI) is an autonomous constitutional authority responsible for administering election processes in India."
+  },
+  {
+    "id": 3,
+    "question": "What does EVM stand for?",
+    "options": ["Electronic Voting Machine", "Electoral Vote Machine", "Election Validation Method", "Electronic Validation Machine"],
+    "correctAnswer": 0,
+    "explanation": "EVM stands for Electronic Voting Machine, which is used to record votes electronically in India."
+  },
+  {
+    "id": 4,
+    "question": "What is NOTA?",
+    "options": ["Notice Of The Authorities", "None Of The Above", "National Organization For Truthful Administration", "New Order To Administer"],
+    "correctAnswer": 1,
+    "explanation": "NOTA stands for 'None of the Above', a ballot option designed to allow the voter to indicate disapproval of all of the candidates in a voting system."
+  },
+  {
+    "id": 5,
+    "question": "When does the Model Code of Conduct come into effect?",
+    "options": ["One month before voting", "As soon as elections are announced", "On the day of voting", "When candidates file nominations"],
+    "correctAnswer": 1,
+    "explanation": "The Model Code of Conduct comes into force immediately upon the announcement of the election schedule by the Election Commission."
+  }
+]

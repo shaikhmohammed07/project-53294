@@ -1,0 +1,53 @@
+[
+  {
+    "phase": "Before Election",
+    "events": [
+      {
+        "title": "Delimitation",
+        "description": "Boundaries of electoral constituencies are drawn."
+      },
+      {
+        "title": "Voter Registration",
+        "description": "Citizens register to vote and electoral rolls are updated."
+      },
+      {
+        "title": "Model Code of Conduct",
+        "description": "Rules come into effect ensuring a level playing field."
+      }
+    ]
+  },
+  {
+    "phase": "During Election",
+    "events": [
+      {
+        "title": "Polling Day",
+        "description": "Registered voters cast their votes at designated booths."
+      },
+      {
+        "title": "Security Deployment",
+        "description": "Police and paramilitary forces ensure peaceful voting."
+      },
+      {
+        "title": "Sealing of EVMs",
+        "description": "After voting, EVMs are sealed and sent to strong rooms."
+      }
+    ]
+  },
+  {
+    "phase": "After Election",
+    "events": [
+      {
+        "title": "Counting of Votes",
+        "description": "EVMs are opened and votes are counted in presence of candidates' agents."
+      },
+      {
+        "title": "Declaration of Results",
+        "description": "The Returning Officer officially declares the winner."
+      },
+      {
+        "title": "Formation of Government",
+        "description": "The majority party/coalition is invited by the President/Governor to form the government."
+      }
+    ]
+  }
+]
